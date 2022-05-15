@@ -1,0 +1,36 @@
+.formContainer{
+    display:flex;
+    flex-direction: column;
+}
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    padding:8px;
+    margin:8px;
+}
+
+.nameInput{
+    display: flex;
+    flex-direction: column;
+    padding:8px;
+    margin:8px;
+}
+
+.comment{
+    display: flex;
+    flex-direction: column;
+    padding:8px;
+    margin:8px;
+}
+textarea{
+padding:5px 10px 5px;
+}
+
+label{
+    padding-bottom:15px;
+}
+
+input{
+    padding:8px 10px 8px;
+    border-radius: 5px;
+}
